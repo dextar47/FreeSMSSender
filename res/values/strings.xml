@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Free SMS Sender</string>
+    <string name="newSms">New SMS</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
